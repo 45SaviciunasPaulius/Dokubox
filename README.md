@@ -95,10 +95,6 @@ Contributions welcome — please open issues or pull requests for improvements.
 - If you see native modules or linking errors, run `npx expo install` again and rebuild your environment.
 - If uploads fail, verify Appwrite endpoint and project IDs in your environment variables.
 
-## LICENSE
-
-Specify your license here (e.g., MIT) or remove this section if not applicable.
-
 ---
 
 If you want, I can also add example .env.example, screenshots, or a simple Appwrite configuration guide next.
